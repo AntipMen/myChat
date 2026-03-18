@@ -1,5 +1,5 @@
 import React from "react";
-import Linkify from "linkifyjs/react";
+import Linkify from 'linkify-react';
 import MicrolinkCard from "@microlink/react";
 import getUrls from "get-urls";
 import "./index.css";
